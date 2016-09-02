@@ -1,0 +1,2 @@
+there is some problem in the case of input attributes in the case of records of cars .
+Add the css and html properties to it in your liesure time.
